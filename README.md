@@ -83,7 +83,7 @@ Start building a game of **Tic Tac Toe** in React. The positions of the 'Xs' and
   1. Does the latest move by the human player mean **the game is over**? (Game over, then!)
   1. Is the game **immediately winnable by the computer** by making a certain move? (Do it!)
   1. Can the computer **block the human from winning on their next move** by making certain move? (Do it!)
-  
+
 The move by the computer should probably be random if the previous checks turn out negative, but you'll be surprised at how smart the "game engine" will feel.
 
 Have fun!
